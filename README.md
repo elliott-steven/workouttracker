@@ -33,6 +33,6 @@ SO THAT I can track my progress
 
 ## Screenshots
 
-![Main Screen](public\img\workout-tracker-1.png "Main screen")
+![Main Screen](/public/img/workout-tracker-1.png "Main screen")
 
-![Graph Screen](public\img\workout-tracker-2.png "Graph screen")
+![Graph Screen](/public/img/workout-tracker-2.png "Graph screen")
